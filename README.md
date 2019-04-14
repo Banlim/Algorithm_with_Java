@@ -8,7 +8,7 @@
   * Floyd's Algorithm
   
   > Algorithm 3
-  
+  * Chained Matrix Multiplication
   
   > Algorithm 4
   
