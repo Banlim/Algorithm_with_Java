@@ -2,4 +2,4 @@
 
 
   > Algorithm 1
-    >> Strassen's Algorithm
+  * Strassen's Algorithm
